@@ -1,0 +1,32 @@
+[
+{
+	"name":"Ice Cream Black Tea",
+	"price":"55",
+	"calories":"708.6",
+	"sugar_content":"72.9"
+},
+{
+        "name":"Ovaltine",
+        "price":"60",
+        "calories":"599.2",
+        "sugar_content":"55.8"
+},
+{
+        "name":"Bubble Black Tea Latte",
+        "price":"65",
+        "calories":"644.8",
+        "sugar_content":"65.6"
+},
+{
+        "name":"Grapefruit Yakult Juice",
+        "price":"75",
+        "calories":"387.6",
+        "sugar_content":"87.3"
+},
+{
+        "name":"Yakult Green Tea",
+        "price":"55",
+        "calories":"331.6",
+        "sugar_content":"75.9"
+}
+]
